@@ -254,6 +254,7 @@ footer .creado-por a:hover {text-decoration: underline;}
 /* ------------------------- */
 /* Mediaqueries */
 /* ------------------------- */
+
 @media screen and (max-width: 700px) {
 	.grid .item {
 		width: calc(50% - 20px);
